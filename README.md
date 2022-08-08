@@ -3,9 +3,9 @@ Lavish Discord Bot is a Discord chat bot that I made using the discord.py librar
 
 ![Weather command](https://i.imgur.com/FCtJmtD.png)
 
-![Server Info Command](https://i.imgur.com/HoHDlL3.png)
+![Server Info Command](https://i.imgur.com/xWjTjss.png)
 
-![Meme Maker command](https://i.imgur.com/bIL9xG8.png)
+![Meme Maker command](https://i.imgur.com/oszZV1R.png)
 
 ![Scramble command](https://i.imgur.com/im4tWmz.png)
 
